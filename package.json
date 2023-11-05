@@ -1,0 +1,16 @@
+{
+  "name": "mern-realesate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "^c",
+  "scripts": {
+    "test": "^c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.0",
+    "update": "^0.7.4"
+  }
+}
